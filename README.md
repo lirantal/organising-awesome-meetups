@@ -144,6 +144,14 @@ Choosing a date for the meetup isn't always a straight-forward decision. Things 
 to choose doesn't have another competing meetup group scheduled for it already.
 - Take into account holidays, events, or company activities to make sure none of those conflict with the meetup date.
 
+### Meetup Type
+
+Meetups in their classic formats feature a speaker (or more) who delivers a presentation. However, meetups are a great ground to also feature different formats of learning. We propose:
+- **presentation** - Clasical presentations (one or more subjects)
+- **workshop** - Writing code during a meetup helps attendees experience and learn through practical hands-on experience.
+- **open talks** - A topic is selected for the meetup, and during the meetup event the attendees share a collection of subjects related to the topic proposed. A whiteboard helps facilitate this activity. Once enough subjects are gathered an open discussion with attendees can take place to share knowledge. An important aspect of this meetup is having a moderator for the conversation so it doesn't get side-tracked.
+
+
 ### Meetup space
 
 A good open space with a sitting area will work best for networking and free movement for attendees.
