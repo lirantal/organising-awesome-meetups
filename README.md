@@ -294,3 +294,7 @@ the speakers are not well known; the topics are too beginner level; maybe not a 
 valid and you should've considered them in advance before scheduling the meetup. Once scheduled, keep to it and don't be 
 tempted to move the date unless a really critical issue prevents it from happening.
 
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
